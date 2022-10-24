@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/app_background"/>
+    <item
+        android:gravity="center"
+        android:width="240dp"
+        android:height="240dp">
+        <bitmap
+            android:layout_width="wrap_content"
+            android:gravity="fill"
+            android:src="@drawable/app_logo" />
+    </item>
+    <item
+        android:width="150dp"
+        android:height="75dp"
+        android:bottom="75dp"
+        android:gravity="bottom|center">
+        <bitmap
+            android:layout_width="wrap_content"
+            android:gravity="fill"
+            android:src="@drawable/branding_image" />
+    </item>
+</layer-list>
