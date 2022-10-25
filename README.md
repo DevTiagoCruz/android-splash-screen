@@ -11,10 +11,10 @@ https://developer.android.com/develop/ui/views/launch/splash-screen
 |---------|--------|--------|
 | 12 | ✅ | ✅
 | 11 | ✅ | ✅
-| 10 | ✅ | ❌
+| 10 | ✅ | ✅
 | 9 | ✅ | ✅
 | 8 | ✅ | ✅
-| 7 | ✅ | ❌
+| 7 | ✅ | ✅
 | 6 | ✅ | ❌
 
 ## Bug found:
